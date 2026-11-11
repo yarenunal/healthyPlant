@@ -1,0 +1,162 @@
+{
+  "@@locale": "en",
+  "appTitle": "Healthy Plant",
+  "navHome": "Home",
+  "navMyPlants": "My Plants",
+  "onboardingTitle": "Care for your\nplants easily",
+  "onboardingSubtitle": "Identify plants, track watering,\nand get reminders when they need care.",
+  "getStarted": "Get started",
+  "pleaseWait": "Please wait…",
+  "continueWithoutReminders": "Continue without reminders",
+  "onboardingPrivacyNote": "No account needed. Your data stays on this device.",
+  "homeTitle": "Your plants",
+  "homeAllFine": "All plants look fine today",
+  "homeNeedsWater": "{count} plant needs watering",
+  "@homeNeedsWater": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "homeNeedsWaterPlural": "{count} plants need watering",
+  "@homeNeedsWaterPlural": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "enableRemindersPrompt": "Enable watering reminders?",
+  "enable": "Enable",
+  "remindersEnabledSnack": "Reminders enabled · around {time}",
+  "@remindersEnabledSnack": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "remindersPermissionSnack": "Notification permission needed in Settings",
+  "scanPlantCardTitle": "Scan a plant",
+  "scanPlantCardSubtitle": "Take a photo, see care tips,\nand add it to My Plants",
+  "quickCareGuide": "Quick care guide",
+  "everyNDays": "Every {days} days",
+  "@everyNDays": {
+    "placeholders": {
+      "days": { "type": "int" }
+    }
+  },
+  "myPlantsTitle": "My Plants",
+  "myPlantsEmptyHint": "Add your first plant to get started",
+  "plantsSaved": "{count} plant saved",
+  "@plantsSaved": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "plantsSavedPlural": "{count} plants saved",
+  "@plantsSavedPlural": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "noPlantsYet": "No plants yet.\nTap the camera to add one.",
+  "needsWater": "Needs water",
+  "waterToday": "Water today",
+  "nextWaterInDays": "Next water in {days}d",
+  "@nextWaterInDays": {
+    "placeholders": {
+      "days": { "type": "int" }
+    }
+  },
+  "waterNow": "Water now",
+  "iWateredIt": "I watered it",
+  "wateredLabel": "Watered",
+  "scanTitle": "Scan plant",
+  "scanFrameHint": "Center the plant\nin the frame",
+  "identifying": "Identifying…",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "possibleMatch": "Possible match",
+  "wrongPlantSearch": "Wrong plant? Search to correct",
+  "plantNickname": "Plant nickname",
+  "addToMyPlants": "Add to My Plants",
+  "retake": "Retake",
+  "plantAddedSnack": "{name} added to My Plants",
+  "@plantAddedSnack": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "wateringReminderTitle": "Watering reminder",
+  "wateringReminderBody": "Time to water {name}",
+  "@wateringReminderBody": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "language": "Language",
+  "languageSystem": "Phone language",
+  "languageEnglish": "English",
+  "languageTurkish": "Türkçe",
+  "careWaterLight": "💧 Every {days} days · ☀️ {light}",
+  "@careWaterLight": {
+    "placeholders": {
+      "days": { "type": "int" },
+      "light": { "type": "String" }
+    }
+  },
+  "reminderTimeTitle": "Reminder time",
+  "reminderTimeSubtitle": "Watering reminders around {time}",
+  "@reminderTimeSubtitle": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "reminderTimeSaved": "Reminder time set to {time}",
+  "@reminderTimeSaved": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "settings": "Settings",
+  "changeTime": "Change time",
+  "overdueSummaryTitle": "{count} plant is overdue",
+  "@overdueSummaryTitle": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "overdueSummaryTitlePlural": "{count} plants are overdue",
+  "@overdueSummaryTitlePlural": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "overdueSummarySubtitle": "They still need watering. Open My Plants to catch up.",
+  "viewOverdue": "View plants",
+  "overdueBannerTitle": "Some plants need water",
+  "overdueBannerBody": "{names} still need watering.",
+  "@overdueBannerBody": {
+    "placeholders": {
+      "names": { "type": "String" }
+    }
+  },
+  "overdueBannerLater": "Later",
+  "overdueBannerOpen": "Open My Plants",
+  "followUpReminderTitle": "Gentle reminder",
+  "followUpReminderBody": "{name} still hasn't been watered today",
+  "@followUpReminderBody": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "scanQuotaLimitTitle": "Daily scan limit",
+  "scanQuotaLimitBody": "You can scan up to {count} plants per day. Try again tomorrow.",
+  "@scanQuotaLimitBody": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "scanQuotaReachedSnack": "Daily scan limit reached ({count}/day). Try again tomorrow.",
+  "@scanQuotaReachedSnack": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  }
+}
