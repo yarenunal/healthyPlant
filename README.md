@@ -1,3 +1,4 @@
+
 # 🌿 healthyPlant
 
 Local-first bitki bakım takipçisi: bitkini fotoğrafla tanı, "Bitkilerim"e ekle, sulamayı bir daha unutma.
@@ -42,4 +43,8 @@ backend/       # bitki tanıma isteklerini Pl@ntNet'e ileten Python servisi
 android/ ios/  # platform projeleri
 test/          # Flutter testleri
 ```
-
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-11-11 at 15 33 40" src="https://github.com/user-attachments/assets/d7d19eb4-3a5a-4c74-8885-7575e056901d" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-11-11 at 15 32 34" src="https://github.com/user-attachments/assets/dc93df8b-34f2-4b97-9319-ffab943b1824" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-11-11 at 15 32 25" src="https://github.com/user-attachments/assets/64c3290e-f789-458f-b102-7f292c3725a8" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-11-11 at 15 32 00" src="https://github.com/user-attachments/assets/fa498cb1-dbc4-4db9-85dd-40f5fa52f4df" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-11-11 at 15 31 50" src="https://github.com/user-attachments/assets/f18e6fcd-09c7-44f4-b327-b069f2616543" />
