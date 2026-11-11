@@ -43,3 +43,13 @@ backend/       # bitki tanıma isteklerini Pl@ntNet'e ileten Python servisi
 android/ ios/  # platform projeleri
 test/          # Flutter testleri
 ```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ccb05bff-6fcb-458d-9957-544f558fd6b2" width="220" alt="Ekran 1" />
+  <img src="https://github.com/user-attachments/assets/7e03ab6f-a0ab-4ccc-ab33-a5a9c8997fd0" width="220" alt="Ekran 2" />
+  <img src="https://github.com/user-attachments/assets/2b2a125d-5158-4c5f-a32d-49b99be6d879" width="220" alt="Ekran 3" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/605028e4-da77-4eb8-91fe-486097d73dc3" width="220" alt="Ekran 4" />
+  <img src="https://github.com/user-attachments/assets/108f0980-bf10-499b-a80e-95c9b73e4914" width="220" alt="Ekran 5" />
+</p>
